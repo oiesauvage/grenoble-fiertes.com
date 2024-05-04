@@ -4,18 +4,12 @@ startDate: 2024-06-08T14:00:00.000Z
 endDate: 2024-06-08T17:00:00.000Z
 showHours: true
 showEnd: true
-location: Centre LGBTI
-place: 8 rue Sergent Bobillot, Grenoble
-placeUrl: https://maps.app.goo.gl/5ZyPvRCe2UKGjDaJA
+location: Le Refuge
+place: 22 av. Albert 1er de Belgique, Grenoble
+placeUrl: https://maps.app.goo.gl/zrCZK5ibdWfk1mi89
 ---
 
-
-
-
-
-***Lieu :*** Centre LGBTI
-
-
+***Lieu :*** Le Refuge
 
 ***Organisateurs :*** Le Refuge
 

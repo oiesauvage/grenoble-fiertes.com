@@ -1,5 +1,5 @@
 ---
-title: Veillée du DUEC
+title: Veillée DUEC
 startDate: 2024-06-12T20:15:00.000Z
 endDate: 2024-06-12T22:15:00.000Z
 showHours: true
