@@ -5,7 +5,7 @@ endDate: 2024-05-27T22:00:00.000Z
 showHours: true
 showEnd: true
 location: La Crique Sud
-place: 11 bvd Augutte Sembat, Grenoble
+place: 11 bvd Agutte Sembat, Grenoble
 placeUrl: https://maps.app.goo.gl/JW3AyFU2jZPrq7Hq9
 ---
 

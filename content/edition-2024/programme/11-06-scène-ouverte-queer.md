@@ -9,17 +9,15 @@ place: 2 Rue Auguste Gaché, Grenoble
 placeUrl: https://maps.app.goo.gl/4CTSGojbPbqYzBVh7
 ---
 
-Scène ouverte Queer hostée par Raz. 
-
-accessible en transport en commun - Queer Friendly 
 
 
+Scène ouverte Queer hostée par Raz.
 
-***Lieu :*** Le Harper's
+***Lieu :*** Le Harper's House
 
 
 
-***Organisateurs :*** Le Harper's et Raz_dragking
+***Organisateurs :*** Raz_dragking et Le Harper's
 
-
+***Accessibilité :*** Accessible en transport en commun - QUeer Friendly
 

@@ -19,5 +19,5 @@ Reflexion sur les façons dont le fémo-nationalisme et l'homonationalisme se d�
 
 ***Organisateurs :*** Antigone
 
-***Accessibilité :*** Queer friendly, accessible en transports en commun, 19h ouverture des portes 20h discussion
+***Accessibilité :*** Queer friendly, accessible en transports en commun, 19h ouverture des portes 20h discussion.
 

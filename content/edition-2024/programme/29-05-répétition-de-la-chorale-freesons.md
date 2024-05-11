@@ -9,7 +9,7 @@ place: 8 rue Sergent Bobillot, Grenoble
 placeUrl: https://maps.app.goo.gl/5ZyPvRCe2UKGjDaJA
 ---
 
-
+Freesons est la chorale LGBTIH de Grenoble : <https://chorale-freesons.wixsite.com/la-chorale-lgbtih>
 
 
 
