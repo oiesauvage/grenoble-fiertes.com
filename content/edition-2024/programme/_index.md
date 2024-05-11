@@ -1,6 +1,6 @@
 ---
 title: "Programme 2024 du Mois des Fiertés de Grenoble"
-description: "Le Mois des Fiertés rassemble de nombreuses associations LGBTQIA+ de Grenoble autour de quatre semaines d'événements organisés par et pour les personnes LGBTQIA+ et leurs allié·es. Ainsi, nous vous proposons pas moins de 88 évènements riches en couleurs 🏳️‍🌈, du 14 mai au 16 juin!"
+description: "Le Mois des Fiertés rassemble de nombreuses associations LGBTQIA+ de Grenoble autour de quatre semaines d'événements organisés par et pour les personnes LGBTQIA+ et leurs allié·es. Ainsi, nous vous proposons plus de 80 évènements riches en couleurs 🏳️‍🌈, du 14 mai au 16 juin!"
 missingEvents: false
 date: 2024-04-16T00:00:00+00:00
 lastmod: 2025-04-26T00:00:00+00:00
@@ -13,3 +13,4 @@ cascade:
   layout: evenement
 ---
 
+Retrouvez le détail de tous les évènements ci-dessous! Vous pouvez aussi télécharger le programme en [version PDF compressée](/documents/planning-fiertes-2024_compressed.pdf) (réalisation de Julie Lambert [[Web](https://www.julie-lambert.fr/) | [Insta ](https://www.instagram.com/fichtritudes/)]). Attention, certains évènements pouvant être modifiés, nous vous invitons à regarder cette page également 😉.

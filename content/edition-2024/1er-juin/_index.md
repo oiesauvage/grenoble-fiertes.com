@@ -41,17 +41,25 @@ Le parcours de la marche se fera suivant une boucle depuis et vers le Jardin de 
          width="80%">
 </figure>
 
-## Affiche et livret du programme
-
-Cette année, l'affiche est l'oeuvre de [Charlie-pour-les-intimes](https://www.instagram.com/charlie_pour_les_intimes/). Un grand merci à lui!
+Au Jardin de ville, vous retrouverez les stands du village associatif ainsi qu'une buvette, vente de goodies, un pôle d'accueil, et spectacles / prises de paroles sur le kiosque.
 
 <figure class="center">
-    <img src="affiche-pride-2024.jpg"
+    <img src="PlanJDV.png"
+         alt="Plan du Village Associatif 2024"
+         width="80%">
+</figure>
+
+## Affiche et livret du programme
+
+Cette année, l'affiche et illustrations du livret sont l'oeuvre de [Charlie-pour-les-intimes](https://www.instagram.com/charlie_pour_les_intimes/). Un grand merci à lui!
+
+<figure class="center">
+    <img src="affiche-pride-2024-websize.jpg"
          alt="Affiche Pride de Grenoble 2024"
          width="80%">
 </figure>
 
-Livret du programme à venir!
+Le livret du programme est quand à lui une super réalisation de Julie [[Web](https://www.julie-lambert.fr/) | [Insta ](https://www.instagram.com/fichtritudes/)], disponible [ICI](/documents/planning-fiertes-2024_compressed.pdf) en PDF compressé. Certains evènements pouvant être mis à jour, nous vous invitons aussi à regarder la version en ligne du [programme](/edition-2024/programme).
 
 ## Infos pratiques
 
