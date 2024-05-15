@@ -1,5 +1,5 @@
 ---
-title: After pride / Soirée au Drak-Art
+title: After Pride / Soirée au Drak-Art
 startDate: 2024-06-01T22:00:00.000Z
 endDate: 2024-06-02T06:00:00.000Z
 showHours: true

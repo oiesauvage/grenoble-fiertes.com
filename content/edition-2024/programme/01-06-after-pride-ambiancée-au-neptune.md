@@ -1,5 +1,5 @@
 ---
-title: After pride ambiancée au Neptune
+title: After Pride ambiancée au Neptune
 startDate: 2024-06-01T17:30:00.000Z
 endDate: 2024-06-01T23:00:00.000Z
 showHours: true
@@ -17,7 +17,7 @@ placeUrl: https://maps.app.goo.gl/CcooDLiNy5SC4nJ6A
 
 
 
-
+***Organisateurs :*** Brasserie Neptune
 
 ***Accessibilité :*** Queer friendly accessible en transports en commun
 

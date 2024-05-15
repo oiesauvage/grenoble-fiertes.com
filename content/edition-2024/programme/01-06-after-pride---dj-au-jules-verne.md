@@ -1,5 +1,5 @@
 ---
-title: After pride / DJ au Jules Verne
+title: After Pride / DJ au Jules Verne
 startDate: 2024-06-01T19:00:00.000Z
 endDate: 2024-06-01T21:00:00.000Z
 showHours: true

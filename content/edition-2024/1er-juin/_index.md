@@ -21,7 +21,18 @@ Et diverses after-prides, voir [le planning!](/edition-2024/programme)
 
 Le village associatif se tiendra de 13 heures à 19 heures au Jardin de Ville, y compris en l'absence de la Marche. De nombreuses associations LGBTQIA+ et féministes seront présentes : n'hésitez pas à leur rendre visite!
 
-Le détail des associations et des stands présents sur le village, ainsi que les artistes qui se produiront sur le village ou pendant la marche sera bientôt disponible 🏗️   !
+> **Associations présentes :**
+> 
+> - Centre LGBTI, Commission Asile, Commission Animation
+> - Les Dépeauteuses, Les Dérailleurs, Grimpe et Glisse
+> - Aides, Sida Info Service, Tempo, Enipse
+> - Le Refuge, Contact, SOS homophobie, Amnesty International
+> - Serein.es, Bon sang, Sans gametes, Le Planning Familial
+> - La Quete 38, Rita, Déviations
+> - Flam 38 ; Les Cannibal Marmots
+> - DUEC
+> - Vues d'en face, INPulse adelphie, En tout genre
+> - Freesons , Rando's
 
 ## Mot d'ordre, parcours, cortège, etc
 

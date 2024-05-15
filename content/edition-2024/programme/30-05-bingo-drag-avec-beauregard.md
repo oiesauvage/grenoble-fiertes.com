@@ -1,7 +1,7 @@
 ---
 title: Bingo Drag avec Beauregard
-startDate: 2024-05-23T20:00:00.000Z
-endDate: 2024-05-23T22:00:00.000Z
+startDate: 2024-05-30T20:00:00.000Z
+endDate: 2024-05-30T22:00:00.000Z
 showHours: true
 showEnd: true
 location: Restaurant Vivant

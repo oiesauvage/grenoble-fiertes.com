@@ -1,5 +1,5 @@
 ---
-title: After pride / Soirée "Gayspard"
+title: After Pride / Soirée "Gayspard"
 startDate: 2024-06-01T19:00:00.000Z
 endDate: 2024-06-02T00:00:00.000Z
 showHours: true
@@ -17,7 +17,7 @@ placeUrl: https://maps.app.goo.gl/DXHBMcrNSRHCwRUX7
 
 
 
-
+***Organisateurs :*** Bar Gaspard
 
 ***Accessibilité :*** Queer friendly
 accessible en transports en commun
