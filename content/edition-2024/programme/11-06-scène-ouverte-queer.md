@@ -19,5 +19,5 @@ Scène ouverte Queer hostée par Raz.
 
 ***Organisateurs :*** Raz_dragking et Le Harper's
 
-***Accessibilité :*** Accessible en transport en commun - QUeer Friendly
+***Accessibilité :*** Accessible en transport en commun - Queer Friendly
 
