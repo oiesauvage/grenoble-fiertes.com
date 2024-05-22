@@ -11,11 +11,11 @@ placeUrl:
 
 Randonnée animée par les Dérailleurs & Rando's.
 
-Venez découvrir ces deux associations qui allient sport (modéré) et convivialité, aux personnes LGBT de l'environnement grenoblois!
+Venez découvrir ces deux associations qui allient sport (modéré) et convivialité, aux personnes LGBT de l'environnement grenoblois! Voir le lien pour les inscriptions et le covoiturage.
 
 ***Lieu :*** Plateau de la Molière
 
-
+***Inscriptions :*** <https://www.randos-rhone-alpes.org/pages/sorties/16-06-rando-marche-des-fiertes-a-grenoble.html>
 
 ***Organisateurs :*** Les Dérailleurs et Rando's
 
