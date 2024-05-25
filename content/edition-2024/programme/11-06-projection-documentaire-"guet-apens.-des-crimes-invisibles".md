@@ -1,8 +1,8 @@
 ---
 title: Projection documentaire "Guet-Apens. Des crimes invisibles"
-startDate: 2024-06-11T00:00:00.000Z
-endDate: 2024-06-11T00:00:00.000Z
-showHours: false
+startDate: 2024-06-11T20:00:00.000Z
+endDate: 2024-06-12T00:00:00.000Z
+showHours: true
 showEnd: false
 location: Cinéma Pathé Echirolles
 place: 4 Rue Albert Londres, 38130 Échirolles
