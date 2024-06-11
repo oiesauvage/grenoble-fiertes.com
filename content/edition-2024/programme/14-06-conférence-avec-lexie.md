@@ -1,5 +1,5 @@
 ---
-title: Conférence avec Lexie
+title: Conférence avec Lexie [[ ANNULÉ ]]
 startDate: 2024-06-14T18:30:00.000Z
 endDate: 2024-06-14T21:00:00.000Z
 showHours: true
@@ -10,14 +10,5 @@ placeUrl: https://maps.app.goo.gl/s12x2RYjdiCd3tMe7
 ---
 
 
-
-
-
-***Lieu :*** Bibliothèque Centre Ville
-
-
-
-***Organisateurs :*** Grenoble Fiertés et Bibliothèque Centre Ville
-
-
+Malheureusement, Lexie à dû annuler sa venue pour raisons familiales.
 

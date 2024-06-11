@@ -1,5 +1,5 @@
 ---
-title: Rencontre avec Cass Andre, streamer
+title: Rencontre avec Cass Andre, streamer [[ ANNULÉ ]]
 startDate: 2024-06-15T19:00:00.000Z
 endDate: 2024-06-16T00:00:00.000Z
 showHours: true
@@ -9,9 +9,9 @@ place: 22 Rue des Violettes, Grenoble
 placeUrl: https://maps.app.goo.gl/csbJwjMuB3NhBxdNA
 ---
 
+Malheureusement, Cass Andre a dû annuler sa venue du fait d'imprévus envers ses engagements militants.
 
-
-Reflexion sur les façons dont le fémo-nationalisme et l'homonationalisme se déploient au service d'un projet raciste et masculiniste
+Reflexion sur les façons dont le fémo-nationalisme et l'homonationalisme se déploient au service d'un projet raciste et masculiniste.
 
 ***Lieu :*** Antigone
 
