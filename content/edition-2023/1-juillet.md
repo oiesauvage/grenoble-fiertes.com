@@ -2,7 +2,7 @@
 title: "Marche des Fiertés de Grenoble - 1er juillet 2023"
 description: "L'édition 2023 de la Marche des Fiertés de Grenoble se tiendra le samedi  au départ du Jardin de Ville, où se tiendra un village associatif toute l'après-midi."
 date: 2023-05-19T13:00:00
-lastmod: 2023-6-15T13:00:00
+lastmod: 2023-06-15T13:00:00
 draft: false
 isArticle: true
 images: [Affiche%20Pride%20Grenoble%202023.jpg]
