@@ -1,9 +1,14 @@
 ---
 title: "Grenoble Pride"
-lead: "Marche des Fiertés à Grenoble"
+lead: "Marche des Fiertés à Grenoble 24 Mai 2025"
 description: "Association organisatrice de la Marche des Fiertés de Grenoble."
-date: 2020-04-17T12:18:10+00:00
-lastmod: 2024-04-21
+lastmod: 2025-02-24
 draft: false
 images: []
 ---
+
+**La Pride 2025 de Grenoble aura lieu le 24 Mai 🎉, le Mois des Fiertés du 15 Mai au 15 Juin 🌈 !** 
+
+Les demandes de participations associatives [sont ouvertes](./participer) (Village et Marche des Fiertés).
+
+Plus d'infos sur la Journée et le Mois des Fiertés à venir prochainement 🌾. 

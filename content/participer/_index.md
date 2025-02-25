@@ -15,6 +15,6 @@ _build:
 
 ## La Pride de Grenoble vit pour et grâce à vous
 
-La Pride de Grenoble vit grâce aux structures organisatrices des événements de la quinzaine, aux sponsors privés et publics, aux donateurices individuel·les, aux bénévoles participant à l’organisation et à la logistique, et à toutes les personnes qui participent aux événements.
+La Pride de Grenoble vit grâce aux structures organisatrices des événements du Mois des Fiertés, aux sponsors privés et publics, aux donateurices individuel·les, aux bénévoles participant à l’organisation et à la logistique, et à toutes les personnes qui participent aux événements.
 
 N’hésitez pas à vous investir dès maintenant !

@@ -9,7 +9,6 @@ enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = false
 languageCode = "fr-FR"
-paginate = 7
 rssLimit = 100
 
 [languages]

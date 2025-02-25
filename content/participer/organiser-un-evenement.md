@@ -10,8 +10,8 @@ images: []
 weight: 20
 ---
 
-La Quinzaine des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQI. 
-Les demandes de participation au mois des fiertés sont dorénavant closes, mais n'hésitez pas à nous écrire si vous avez des propositions pour l'année prochaine ou autres!
+La Mois des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQI. 
+Un formulaire sera prochainement mis à disposition pour toutes vos propositions !
 
 <!--
 Vous souhaitez organiser un événement pendant cette période, en rapport avec les cultures LGBTQIA+, et vous voulez le faire figurer au programme officiel ?

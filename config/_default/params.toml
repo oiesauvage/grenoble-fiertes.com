@@ -46,7 +46,7 @@ smallLimit = "320"
 footer = "Grenoble Fiertés est membre du <a href=\"https://www.centrelgbti-grenoble.org/\" target=\"_blank\" rel=\"noopener\">Centre LGBTI de Grenoble</a>. 🏳️‍🌈"
 #  et de <a href=\"https://www.epoa.eu/\" target=\"_blank\" rel=\"noopener\">l'EPOA</a>
 highlights = ["Contact"]
-copyRight = "© 2017-2024 Grenoble Fiertés. Site réalisé avec amour et paillettes. 💖"
+copyRight = "© 2017-2025 Grenoble Fiertés. Site réalisé avec amour et paillettes. 💖"
 
 # Alert
 alert = true
