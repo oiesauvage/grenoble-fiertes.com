@@ -9,6 +9,6 @@ images: []
 
 **La Pride 2025 de Grenoble aura lieu le 24 Mai 🎉, le Mois des Fiertés du 15 Mai au 15 Juin 🌈 !** 
 
-Les demandes de participations associatives [sont ouvertes](./participer) (Village et Marche des Fiertés).
+Les demandes de participations associatives (Village et Marche des Fiertés) ainsi qu'au Mois des Fiertés (propositions d'événements) [sont ouvertes](./participer).
 
 Plus d'infos sur la Journée et le Mois des Fiertés à venir prochainement 🌾. 

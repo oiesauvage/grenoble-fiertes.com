@@ -1,7 +1,9 @@
 ---
 title: "Organiser un événement"
-description: "La Quinzaine des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQIA+. Si vous souhaitez organiser un événement et le faire figurer au programme officiel, n’hésitez pas à nous le faire savoir. Nous pouvons également vous aider à l’organiser !"
+description: "Vous souhaitez organiser un événement pour le Mois des Fiertés et vous voulez le faire figurer au programme officiel ?
+Remplissez le formulaire ci-après (jusqu'au 2 avril) et nous vous recontacterons dès que possible !"
 isArticle: true
+form: https://forms.gle/d9NPGNYMrrx5VjQP9
 layout: participation
 date: 2022-01-01T15:00:00+00:00
 lastmod: 2022-01-01T15:00:00+00:00
@@ -10,13 +12,10 @@ images: []
 weight: 20
 ---
 
-La Mois des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQI. 
-Un formulaire sera prochainement mis à disposition pour toutes vos propositions !
+Le Mois des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQIA+. 
 
-<!--
 Vous souhaitez organiser un événement pendant cette période, en rapport avec les cultures LGBTQIA+, et vous voulez le faire figurer au programme officiel ?
-Remplissez le formulaire ci-après et nous vous recontacterons dans les plus brefs délais !
--->
+Remplissez le formulaire ci-après (jusqu'au 2 avril) et nous vous recontacterons dès que possible !
 
 <!--
 - Votre structure
