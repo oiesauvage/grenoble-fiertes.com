@@ -1,7 +1,7 @@
 ---
 title: "Organiser un événement"
 description: "Vous souhaitez organiser un événement pour le Mois des Fiertés et vous voulez le faire figurer au programme officiel ?
-Remplissez le formulaire ci-après (jusqu'au 2 avril) et nous vous recontacterons dès que possible !"
+Les inscriptions sont closes pour cette année, mais n'hésitez pas à nous contacter pour la prochaine édition!"
 isArticle: true
 form: https://forms.gle/d9NPGNYMrrx5VjQP9
 layout: participation
@@ -13,9 +13,9 @@ weight: 20
 ---
 
 Le Mois des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQIA+. 
-
-Vous souhaitez organiser un événement pendant cette période, en rapport avec les cultures LGBTQIA+, et vous voulez le faire figurer au programme officiel ?
-Remplissez le formulaire ci-après (jusqu'au 2 avril) et nous vous recontacterons dès que possible !
+Les inscriptions sont closes pour cette année, mais n'hésitez pas à nous contacter pour la prochaine édition!
+<!-- Vous souhaitez organiser un événement pendant cette période, en rapport avec les cultures LGBTQIA+, et vous voulez le faire figurer au programme officiel ?
+Remplissez le formulaire ci-après (jusqu'au 2 avril) et nous vous recontacterons dès que possible ! -->
 
 <!--
 - Votre structure

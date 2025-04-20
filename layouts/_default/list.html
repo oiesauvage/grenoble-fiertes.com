@@ -1,7 +1,9 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-{{ $paginator := .Paginate (.Data.Pages) -}}
-{{ range $paginator.Pages -}}
+{{- if in (slice "home" "section" "taxonomy" "term") .Kind }}
+  {{ $paginator := .Paginate (.Data.Pages) -}}
+  {{ range $paginator.Pages -}}
+{{- end }}
 <article>
   <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
   {{ .Description }}
