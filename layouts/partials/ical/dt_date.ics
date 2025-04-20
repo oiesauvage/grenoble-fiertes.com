@@ -17,4 +17,6 @@
       - . : A value suitable for the 'dateFormat' function.
 */ -}}
 
-{{- dateFormat "20060102" . -}}
+{{ with . }}
+  {{ dateFormat "20060102" . }}
+{{ end }}

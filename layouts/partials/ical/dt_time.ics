@@ -19,8 +19,10 @@
       - .isUTC    : A flag specifying if time is in UTC.
 */ -}}
 
-{{- if .isUTC -}}
-{{- dateFormat "150405Z" .dateTime -}}
-{{- else -}}
-{{- dateFormat "150405" .dateTime -}}
+{{- with .dateTime }}
+  {{- if $.isUTC -}}
+    {{- dateFormat "150405Z" . -}}
+  {{- else -}}
+    {{- dateFormat "150405" . -}}
+  {{- end -}}
 {{- end -}}
