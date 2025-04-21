@@ -1,4 +1,4 @@
-baseurl = "https://grenoble-fiertes.com/"
+baseUrl = "https://grenoble-fiertes.com/"
 canonifyURLs = false
 defaultContentLang = "fr"
 defaultContentLanguage = "fr"
