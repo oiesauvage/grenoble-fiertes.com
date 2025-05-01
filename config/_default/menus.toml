@@ -43,8 +43,8 @@
   weight = 10
 
 [[quick]]
-  name = "Programme 2024"
-  url = "/edition-2024/programme"
+  name = "Programme 2025"
+  url = "/edition-2025/programme"
   weight = 20
 
 # [[quick]]
