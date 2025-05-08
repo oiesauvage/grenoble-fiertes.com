@@ -15,10 +15,10 @@ Les Spice Kitten, grenobloises aussi épicées que leurs sets, vous concoctent u
 
 Une line-up de feu : 
 
-🖤 **Kate Pécheresse Peccino** – Drag sorcière qui saura vous envoûter les yeux et l’esprit. Au point où on se demandera quel, est l’homme qui détournerait son regard d’elle, sous peine d’être changé en statue de sel. 
-💋 **Giuseppe Bel et Talon** – Drag king, amoureux de l’amour. La fougue et la détermination de Montoya, le verve de Mike Brant, cet apollon ne vous laissera pas indifférent ! 
-⚓ **Milo Lita** – Marin perdu sur le fleuve du genre, mais du genre a porter des bas bleu de méthylène. Milo vous transportera la où iel ira, son pays sera vous, qu’importe la place, qu’importe l’endroit. 
-🌀 **Chaotits** – Créature indomptable qui vénère l’amour. Et l’amour lui rend bien ! Ne vous approchez pas de trop près, on raconte que qui se piquera le doigt avec ses cornes s’endort pour 100 ans. 
+- 🖤 **Kate Pécheresse Peccino** – Drag sorcière qui saura vous envoûter les yeux et l’esprit. Au point où on se demandera quel, est l’homme qui détournerait son regard d’elle, sous peine d’être changé en statue de sel. 
+- 💋 **Giuseppe Bel et Talon** – Drag king, amoureux de l’amour. La fougue et la détermination de Montoya, le verve de Mike Brant, cet apollon ne vous laissera pas indifférent ! 
+- ⚓ **Milo Lita** – Marin perdu sur le fleuve du genre, mais du genre a porter des bas bleu de méthylène. Milo vous transportera la où iel ira, son pays sera vous, qu’importe la place, qu’importe l’endroit. 
+- 🌀 **Chaotits** – Créature indomptable qui vénère l’amour. Et l’amour lui rend bien ! Ne vous approchez pas de trop près, on raconte que qui se piquera le doigt avec ses cornes s’endort pour 100 ans. 
 
 💃🔥 Et bien sûr, **karaoké débridé** + **DJ set bouillant** des Spice Kitten pour vous faire danser jusqu’à ce que vos talons (ou vos baskets, on ne juge pas) rayent le sol du palais des sports ! 
 

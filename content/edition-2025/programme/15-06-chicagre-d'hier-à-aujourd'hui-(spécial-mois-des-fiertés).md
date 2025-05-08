@@ -13,7 +13,7 @@ placeUrl:
 
  « Chicagre d’hier à aujourd’hui », est une immersion dans les affaires criminelles qui ont marqué l’histoire de la capitale des Alpes. Guide-conférencière de formation, Garance propose cette visite guidée thématique de Grenoble à la communauté LGBTQIA+ locale, dans le but de tester une future activité professionnelle. L’animation sera suivie d’un échange autour d’un verre pour recueillir les retours du public et échanger sur le projet. 
 
-Informations et inscriptions à "garance.charlot.38@gmail.com"
+Informations et inscriptions à "garance.charlot.38 -arobase- gmail point com"
 
 ***Lieu :*** Centre-ville de Grenoble
 

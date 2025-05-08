@@ -14,8 +14,6 @@ Tu veux être bénévole au Jardin de Ville ou pendant la Marche? Les inscriptio
 
 Cette année, l'After Pride aura lieu à la Belle Électrique, avec une programmation qui déchire !!! Réserve ta place sans attendre 😉 !
 
-Plus d'infos sur la Journée et le Mois des Fiertés à venir prochainement 🌾. 
-
 <div style="text-align: center;">
 <img src="edition-2025/visuels/affiche-pride-2025.jpg" alt="affiche pride 2025" width="100%"/>
 <p style="text-align:center"><i>Illustratrice : AMK | <a href="https://www.instagram.com/annemarienoadkoko/">@annemarienoadkoko</a></i></p>
