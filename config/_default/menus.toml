@@ -11,6 +11,11 @@
 #  weight = 2
 
 [[main]]
+  name = "Programme"
+  url = "/edition-2025/programme"
+  weight = 3
+
+[[main]]
   name = "Participer"
   url = "/participer"
   weight = 3
