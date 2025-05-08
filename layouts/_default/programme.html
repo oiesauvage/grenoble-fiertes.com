@@ -2,14 +2,50 @@
 <h1>{{ .Title }}</h1>
 <p>{{ .Description }}</p>
 <p>{{ .Content }}</p>
-{{ if .Params.missingEvents }}<p class="warning-block">Certains événements n'ont pas encore été confirmés, ou il nous manque quelques informations (une description, un horaire, un lieu…). Tant que cet avertissement est affiché, le programme n'est pas définitif !</p>{{ end }}
-<p class="center">
+
+{{ if .Params.missingEvents }}
+<p class="warning-block">
+  Certains événements n'ont pas encore été confirmés, ou il nous manque quelques informations (une description, un horaire, un lieu…). Tant que cet avertissement est affiché, le programme n'est pas définitif !
+</p>
+{{ end }}
+
+<!-- <p class="center">
   {{ with .OutputFormats.Get "Calendar" }}
   <a class="btn" href="{{ .RelPermalink }}" type="text/calendar">Ajouter le programme à mon agenda</a>
   {{ end }}
+</p> -->
+
+{{/* Separate events by type */}}
+{{ $recurring := where .Data.Pages "Params.type" "in" (slice "recurring" "multi-date") }}
+{{ $single := where .Data.Pages "Params.type" "not in" (slice "recurring" "multi-date") }}
+
+{{ if gt (len $recurring) 0 }}
+<section class="card-list">
+  <h2>Événements récurrents ou à dates multiples</h2>
+  {{ range sort $recurring "Params.startDate" "asc" }}
+  <article class="card" tabindex="0">
+    <h3>{{ .Title }}</h3>
+    {{ if .Params.multiDate }}
+    <h4>🗓️ {{ .Params.multiDate }}</h4>
+    {{ end }}
+    {{ if .Params.place }}
+    <p><a class="place-icon" target="_blank" href="{{ .Params.placeUrl }}">{{ .Params.place }}</a></p>
+    {{ end }}
+    {{ .Content }}
+  </article>
+  {{ end }}
+</section>
+{{ end }}
+
+
+<h2>Événements à dates uniques</h2>
+
+<p style="font-style: italic; margin-bottom: 3em;"> 
+NB: Si l'import d'évenements .ics ne fonctionne pas correctement avec Google Agenda sur Android, mais vous pouvez importer le / les fichiers sur la version web de google agenda (dans paramètres / importer).
 </p>
+
 <section class="timeline">
-  {{ range sort .Data.Pages "Params.startDate" "asc" -}}
+  {{ range sort $single "Params.startDate" "asc" }}
   <article class="timeline-event" tabindex="0">
     <time datetime="{{ .Params.startDate }}" class="datemark">
       <span>{{ .Params.startDate | time.Format "Mon" }}</span>
@@ -22,23 +58,23 @@
         {{ if .Params.showHours }}
         <span
           class="time-icon"
-          aria-label='Date et heure : {{ .Params.startDate | time.Format "Monday 2 January, à partir de 15h04" }}{{ if .Params.showEnd }}{{ .Params.endDate | time.Format ", jusque 15h04" -}}{{- end -}}.'
+          aria-label='Date et heure : {{ .Params.startDate | time.Format "Monday 2 January, à partir de 15h04" }}{{ if .Params.showEnd }}{{ .Params.endDate | time.Format ", jusque 15h04" }}{{ end }}.'
         >
-          {{- .Params.startDate | time.Format "15h04" -}}
-          {{- if .Params.showEnd -}}{{ .Params.endDate | time.Format "-15h04" -}}{{- end -}}     
+          {{ .Params.startDate | time.Format "15h04" }}
+          {{ if .Params.showEnd }}{{ .Params.endDate | time.Format "-15h04" }}{{ end }}
         </span>
         {{ end }}
-        {{ if .Params.place -}}
+        {{ if .Params.place }}
         <span class="sr-only">Emplacement :</span>
         <a class="place-icon" target="_blank" href="{{ .Params.placeUrl }}">{{ .Params.place }}</a>
-        {{- end }}
+        {{ end }}
       </span>
       {{ .Content }}
       {{ with .OutputFormats.Get "Calendar" }}
-          <a href="{{ .RelPermalink }}" type="text/calendar" class="btn">Ajouter à mon calendrier (ics)</a>
+      <a href="{{ .RelPermalink }}" type="text/calendar" class="btn">Ajouter à mon calendrier (ics)</a>
       {{ end }}
     </div>
   </article>
-  {{ end -}}
+  {{ end }}
 </section>
 {{ end }}

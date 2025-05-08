@@ -18,4 +18,3 @@ Retrouvez le détail de tous les évènements ci-dessous!
 <!-- Vous pouvez aussi télécharger le programme en [version PDF compressée](/documents/planning-fiertes-2024_compressed.pdf) (réalisation de Julie Lambert [[Web](https://www.julie-lambert.fr/) | [Insta ](https://www.instagram.com/fichtritudes/)]). Attention, certains évènements pouvant être modifiés, nous vous invitons à regarder cette page également 😉. -->
 
 
-*NB: L'import d'évenements .ics ne fonctionne pas correctement avec google agenda sur Android, mais vous pouvez importer le / les fichiers sur la version web de google agenda (dans paramètres / importer).*

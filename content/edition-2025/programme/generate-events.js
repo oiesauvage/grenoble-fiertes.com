@@ -11,14 +11,19 @@ function capitalize(s) {
 class Event {
   constructor(event_data) {
     this.event = event_data;
-    this.uniqueDate = true;
-    if (event_data['Il s\'agit :'] != 'D\'un événement à date unique') {
-      this.uniqueDate = false;
+    if (event_data['Il s\'agit :'] == 'D\'un événement à date unique') {
+      this.type = "single";
+    } else if (event_data['Il s\'agit :'] == 'D\'une permanence associative / événement réccurent'){
+      this.type = "recurring";
+    } else {
+      this.type = "multi-date";
     }
     this.title = capitalize(event_data['Intitulé de votre événement']);
     const dateString = event_data['Date'];
     const startHourString = event_data['Horaire de début'];
     const endHourString = event_data['Horaire de fin'];
+    this.multiDate = capitalize(event_data['Quels sont les jours, horaires et périodicité de votre événement (e.g. le 1er mardi de chaque mois) ?']);
+    this.multiDate += capitalize(event_data['Quelles sont les dates, horaires (et adresse(s) si il y en a plusieurs) de votre événement ?']);
     this.startDate = createDate(dateString, startHourString);
     this.endDate = createDate(dateString, endHourString);
     // fix the day if event goes after midnight
@@ -55,7 +60,7 @@ class Event {
       placeName += this.location;
     }
     if (this.accessibility == "Oui") {
-      accessibility = "♿";
+      accessibility = "Accessibilité PMR ♿";
     }
     if (this.mixity != "") {
       mixity += "***Mixité choisie :*** ";
@@ -70,8 +75,10 @@ class Event {
     }
 let markdownContent = `---
 title: ${this.title}
-startDate: ${this.startDate.toISOString()}
-endDate: ${this.endDate.toISOString()}
+type: ${this.type}
+multiDate: ${this.multiDate}
+startDate: ${this.startDate instanceof Date && !isNaN(this.startDate) ? this.startDate.toISOString() : ''}
+endDate: ${this.endDate instanceof Date && !isNaN(this.endDate) ? this.endDate.toISOString() : ''}
 showHours: ${this.showHours}
 showEnd: ${this.showEnd}
 location: ${this.location}
@@ -101,7 +108,11 @@ ${accessibility}
     const dayStr = String(this.startDate.getDate()).padStart(2, '0');
     const monthStr = String(this.startDate.getMonth() + 1).padStart(2, '0');
     const name = this.title.toLowerCase().replace(/ /g, "-").replace("/", "-");
-    return dayStr + "-" + monthStr + "-" + name + ".md"
+    if (dayStr & monthStr) {
+      return dayStr + "-" + monthStr + "-" + name + ".md"
+    } else {
+      return name + ".md"
+    }
   }
 
   writeFile() {
@@ -123,7 +134,7 @@ function createDate(dateString, hourString) {
   let hours = 0;
   let minutes = 0;
   const hourParts = hourString.match(/^(\d{1,2}):(\d{2})(?::\d{2})?$/);
-  console.log("hour string is ", hourString, "and parsed parts are ", hourParts);
+  // console.log("hour string is ", hourString, "and parsed parts are ", hourParts);
   if (hourParts) {
     hours = parseInt(hourParts[1], 10);
     minutes = hourParts[2] ? parseInt(hourParts[2], 10) : 0;
@@ -156,13 +167,11 @@ fs.readFile('prog-mdf-2025.csv', 'utf8', (err, data) => {
     // Generate markdown files for each event
     events.forEach(event_data => {
       const event = new Event(event_data);
-      if (event.uniqueDate) {
-        console.log(event);
-        console.log("filename is", event.filename())
-        console.log(event.toMarkdown());
+        // console.log(event);
+        // console.log("filename is", event.filename())
+        // console.log(event.toMarkdown());
         event.writeFile();
         console.log("\n");
-      }
     });
   });
 });
