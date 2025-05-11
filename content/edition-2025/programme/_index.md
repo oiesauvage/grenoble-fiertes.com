@@ -15,6 +15,20 @@ cascade:
 
 Retrouvez le détail de tous les évènements ci-dessous! 
 
+<nav class="toc">
+  <ul>
+    <li><a href="#section-1"></a>Événements récurrents ou à dates multiples</li>
+    <li><a href="#section-2"></a>Événements à dates uniques</li>
+  </ul>
+</nav>
+
+Malgré nos efforts, des erratums oublis et changements de dates se sont glissés par rapport au livret papier. En voici la liste :
+
+- le concert de C!EL aux rutilantes est décalé au 20/05
+- P'RIDE à Vélo organisée par ADTC le 25/05. RDV 14h centre LGBTI, départ 15H et arrivée 17H30 à la Bobine
+
+
+
 <!-- Vous pouvez aussi télécharger le programme en [version PDF compressée](/documents/planning-fiertes-2024_compressed.pdf) (réalisation de Julie Lambert [[Web](https://www.julie-lambert.fr/) | [Insta ](https://www.instagram.com/fichtritudes/)]). Attention, certains évènements pouvant être modifiés, nous vous invitons à regarder cette page également 😉. -->
 
 
