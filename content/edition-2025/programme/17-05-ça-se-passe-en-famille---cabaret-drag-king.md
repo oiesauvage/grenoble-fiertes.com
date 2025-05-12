@@ -1,10 +1,10 @@
 ---
 title: Ça se passe en famille - cabaret drag king
-type: multi-date
-multiDate: 17 et 18 mai horaires en ligne
-startDate: 
+type: single
+multiDate: 
+startDate: 2025-05-17T19:30:00.000Z
 endDate: 
-showHours: false
+showHours: true
 showEnd: false
 location: Le BOCAL
 place: 8 boulevard de l'Esplanade
@@ -17,12 +17,8 @@ Cabaret dysfonctionnel
 Ça reste en famille est un spectacle à la croisée du théâtre et du cabaret drag "plumes et paillettes". Sur un choix de musique éclectique, suivez les relations houleuses des membres de cette famille déjantées.
 Car maintenant que Maman est morte, tou.te.s se demande : mais que va-t-on manger ce soir ?
 
-- **samedi 17 mai** : accueil du public à 19h30
-- **dimanche 18 mai** : accueil du public à 17h30
-
 
 Rémunération des artistes au chapeau à prix libre et conscient, pensez à ramener un peu de cash !
-
 
 contact production : acorpsdissidents@gmail.com
 Contact : prog@labasegrenoble.org
