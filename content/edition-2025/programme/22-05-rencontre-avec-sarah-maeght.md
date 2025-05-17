@@ -2,8 +2,8 @@
 title: Rencontre avec Sarah Maeght
 type: single
 multiDate: 
-startDate: 2025-05-22T19:00:00.000Z
-endDate: 2025-05-22T20:00:00.000Z
+startDate: 2025-05-22T12:00:00.000Z
+endDate: 2025-05-22T14:00:00.000Z
 showHours: true
 showEnd: true
 location: Les Modernes
