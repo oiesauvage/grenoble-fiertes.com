@@ -19,9 +19,9 @@ mais aussi pour développer des imaginaires par les représentations.
 Raconter les luttes queers passées, présentes et futures, et surtout faire
 le lien avec d’autres luttes."
 https://germaliza.wixsite.com/lilizaza
-En présence d'un interprète LSF avec qui Lili Zaza a travaillé pour sa performance
+En présence d’une personne pratiquant la LSF avec qui Lili Zaza a travaillé pour sa performance.
 
-Gratuit
+Prix Libre
 
 ***Lieu :*** Centre LGBTI de Grenoble
 
