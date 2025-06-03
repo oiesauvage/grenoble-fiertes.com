@@ -28,6 +28,7 @@ Malgré nos efforts, des erratums oublis et changements de dates se sont glissé
 - P'RIDE à Vélo organisée par ADTC le 25/05. RDV 14h centre LGBTI, départ 15H et arrivée 17H30 à la Bobine
 - La rencontre avec Sara Maeght le 22/05 aura lieu de 12h à 14h
 - Annulation de l'atelier "Écrire et dire les désirs pluriels" le 29/05
+- Annulation du spectacle d'Alice Needle le jeudi 05/06
 
 
 
