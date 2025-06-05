@@ -1,7 +1,7 @@
 ---
 title: Alex Tamécylia ! Rencontre Lecture Atelier
 type: multi-date
-multiDate: Lecture rencontre le mercredi 11 juin à 19h et atelier d'écriture jeudi 12 juin à 18h
+multiDate: Lecture rencontre le mercredi 11 juin à 19h et atelier d'écriture jeudi 12 juin de 12h à 14h
 startDate: 
 endDate: 
 showHours: false
