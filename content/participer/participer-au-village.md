@@ -2,7 +2,7 @@
 title: "Participer au village associatif"
 description: "Moment d’échange entre associations et les participant-e-s de la Marche des Fiertés, le village associatif est là pour vous permettre de faire connaître vos actions, recruter de nouveaux et nouvelles adhérent-e-s, et pourquoi pas vous financer via des dons ou des ventes de nourriture ou de goodies."
 isArticle: true
-form: https://framaforms.org/marche-des-fiertes-et-village-des-fiertes-grenoble-2025-1647026438
+# form: https://framaforms.org/marche-des-fiertes-et-village-des-fiertes-grenoble-2025-1647026438
 layout: participation
 date: 2022-01-01T15:00:00+00:00
 lastmod: 2022-01-01T15:00:00+00:00
