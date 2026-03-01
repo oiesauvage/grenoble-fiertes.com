@@ -29,6 +29,11 @@ npm run build
 npm run preview
 ```
 
+Pour upload : 
+``` bash
+rclone sync --interactive public/ gresille:home/grenoble-fiertes.com/
+```
+
 Attention, lors de la visualisation de la preview, il peut être nécessaire de nettoyer le cache de son navigateur.
 
 ## Licence

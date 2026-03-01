@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ range .Pages }}
+<section class="gallery">
+  <h2>{{ .Title }}</h2>
+
+  {{ with .Content }}
+  <div class="gallery-description">
+    {{ . }}
+  </div>
+  {{ end }}
+
+  <div class="grid">
+    {{ range .Resources.ByType "image" }}
+    <div class="grid-item">
+      <img
+        src="{{ .RelPermalink }}"
+        loading="lazy"
+        alt="{{ $.Title }}"
+        data-credit="{{ with .Exif }}{{ .Tags.Artist }}{{ end }}"
+      >
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ partial "lightbox.html" . }}
+
+{{ end }}

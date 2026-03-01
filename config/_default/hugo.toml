@@ -40,9 +40,8 @@ timeZone="Europe/Paris"
   notAlternative = true
 
 [caches]
-  [caches.getjson]
-    dir = ":cacheDir/:project"
-    maxAge = "10s"
+  [caches.assets]
+    maxAge = "24h"
 
 [sitemap]
   changefreq = "monthly"

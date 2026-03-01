@@ -6,12 +6,15 @@ lastmod: 2025-02-24
 draft: false
 ---
 
-<p style="text-align:center;">
+<pre style="text-align:center">
 <strong>
-L'Édition 2026 de la Marche des Fiertés 2026 aura lieu le 20 Juin au Jardin de Ville. Plus de détails à venir!
+L'Édition 2026 de la Marche des Fiertés 2026 aura lieu le 20 Juin au Jardin de Ville. 
 La quinzaine des Fiertés aura lieu du 13 au 27 Juin. Vous pouvez d'ores-et-déjà proposer un événement.
+
+Plus de détails et programme à venir ! Notre mot d'ordre : Queers en fête, fascisme en défaite !
+
 </strong>
-</p>
+</pre>
 
 <br>
 

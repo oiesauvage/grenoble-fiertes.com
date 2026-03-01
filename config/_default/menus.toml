@@ -1,24 +1,29 @@
 # Main navigation
 
-[[main]]
-  name = "Édition 2025"
-  url = "/edition-2025"
-  weight = 1
+#[[main]]
+#  name = "Édition 2025"
+#  url = "/edition-2025"
+#  weight = 1
+
+#[[main]]
+#  name = "Partenaires 2025"
+#  url = "/edition-2025/partenaires"
+#  weight = 2
 
 [[main]]
-  name = "Partenaires 2025"
-  url = "/edition-2025/partenaires"
+  name = "Rétrospectives"
+  url = "/galleries"
   weight = 2
 
-[[main]]
-  name = "Programme"
-  url = "/edition-2025/programme"
-  weight = 3
+#[[main]]
+#  name = "Programme"
+#  url = "/edition-2025/programme"
+#  weight = 3
 
-[[main]]
-  name = "Participer"
-  url = "/participer"
-  weight = 3
+#[[main]]
+#  name = "Participer"
+#  url = "/participer"
+#  weight = 3
 
 #[[main]]
 #  name = "Archives 2018-2021"
@@ -26,7 +31,7 @@
 #  weight = 20
 
 [[main]]
- name = "L'asso"
+ name = "Qui sommes-nous ?"
  url = "/a-propos"
  weight = 4
 
@@ -42,15 +47,10 @@
 
 # Quick navigation (footer)
 
-[[quick]]
-  name = "Qui sommes-nous ?"
-  url = "/a-propos"
-  weight = 10
-
-[[quick]]
-  name = "Programme 2025"
-  url = "/edition-2025/programme"
-  weight = 20
+#[[quick]]
+#  name = "Programme 2025"
+#  url = "/edition-2025/programme"
+#  weight = 20
 
 # [[quick]]
 #   name = "Archives 2018-2021"
@@ -73,6 +73,11 @@
   weight = 50
 
 # Informative links
+
+[[infos]]
+  name = "Dossier presse"
+  url = "/a-propos"
+  weight = 10
 
 [[infos]]
   name = "Mentions légales"
@@ -106,7 +111,7 @@
   url = "https://www.instagram.com/GrenoblePride/"
   weight = 20
 
-[[social]]
-  name = "Twitter"
-  url = "https://twitter.com/GrenoblePride"
-  weight = 30
+#[[social]]
+#  name = "Twitter"
+#  url = "https://twitter.com/GrenoblePride"
+#  weight = 30

@@ -1,5 +1,5 @@
 ---
-title: "À propos"
+title: "Qui sommes nous ?"
 description: "Association organisatrice de la Marche des Fiertés de Grenoble."
 isArticle: true
 date: 2020-04-17T12:18:10+00:00
@@ -12,9 +12,14 @@ images: []
 
 Grenoble Fiertés organise depuis 2018, la Marche des Fiertés de Grenoble et la Quinzaine des Fiertés de Grenoble.
 
-C'est une association loi 1901 à but non lucratif, fondée courant 2017, qui a pour objet d’organiser des évènements sur les thématiques [LGBTQIA+](https://fr.wikipedia.org/wiki/LGBTQIA+), notamment pour la visibilité et le militantisme pour les droits des personnes LGBTQIA+.
+C'est une association loi 1901 à but non lucratif, fondée courant 2017, et faisant partie du Centre LGBTQIA+ de Grenoble.
+Nous avons pour but de promouvoir les revendications des personnes LGBT+ et des acteurices qui les accompagnent tout au long de l’année. Des associations locales et nationales sont présentes sur le village.
 
-L'association est composée d'une dizaine d'adhérent-e-s, et fait appel chaque année à plus d'une cinquantaine de bénévoles dans le cadre de la journée de la Marche des Fiertés.
+Chaque année, la marche des fiertés et son village accueillent plus de 5000 personnes, ce qui en fait l’un des plus gros évènement de Grenoble après ceux organisés par la mairie !
+Et pourtant, nous ne sommes qu’une dizaine de bénévoles à l’année, avec quelques bénévoles techniques et régies à porter cet évènement majeur.
+Nous sommes subventionnés par la Mairie de Grenoble mais également par nos ventes le jour J, ce qui nous permet d'organiser l’évènement, de rémunérer les artistes et la communication jusqu’au show !
+
+Nous avons un fonctionnement horizontal où toutes les sensibilités peuvent s’exprimer et nous discutons de chaque aspect toust.es ensemble. Toute aide bénévole est bienvenue, autant pour intervenir le jour de la Marche que pour un investissement à l'année ! 
 
 <a class="sparks" href="/contact">Nous contacter</a>  
 <a class="sparks" href="/participer/faire-un-don">Faire un don</a>

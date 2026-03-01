@@ -8,6 +8,19 @@
       {{ partial "header/alert.html" . }}
     {{ end }}
     {{ partial "header/header.html" . }}
+
+    <!-- Galleries CSS -->
+    {{ $galleriesCSS := resources.Get "css/galleries.css" | resources.Minify }}
+    <link rel="stylesheet" href="{{ $galleriesCSS.RelPermalink }}">
+
+    <!-- Masonry + ImagesLoaded (static vendor JS) -->
+    <script src="/js/masonry.pkgd.min.js" defer></script>
+    <script src="/js/imagesloaded.pkgd.min.js" defer></script>
+
+    <!-- Galleries JS -->
+    {{ $galleriesJS := resources.Get "js/galleries.js" | resources.Minify }}
+    <script src="{{ $galleriesJS.RelPermalink }}" defer></script>
+    
     <main id="contenu" class="site-content {{ if .Params.isArticle }}article-container{{ end }}" tabindex="-1">
       {{ block "main" . }}{{ end }}
     </main>
