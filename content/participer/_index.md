@@ -7,7 +7,7 @@ AfficheAlt: "Photo de la foule lors de l'édition 2022."
 AfficheSrc: "foule.jpg"
 draft: false
 images: []
-_build:
+build:
   render: true
   list: always
   publishResources: true
