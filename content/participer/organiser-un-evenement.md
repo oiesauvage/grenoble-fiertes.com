@@ -1,7 +1,7 @@
 ---
 title: "Organiser un événement"
 description: "Vous souhaitez organiser un événement pour la quinzaine des Fiertés et vous voulez le faire figurer au programme officiel ?
-Nous vous invitons à remplir le formulaire (jusqu'au 3 mai), et reviendrons vers vous dès que possible!"
+Nous vous invitons à remplir le formulaire (jusqu'au 17 mai), et reviendrons vers vous dès que possible!"
 isArticle: true
 form: https://forms.gle/H83V7qKY9uxMUygK6
 layout: participation
@@ -14,7 +14,7 @@ weight: 20
 
 La Quinzaine des Fiertés, c’est avant tout un ensemble d’événements autour des cultures LGBTQIA+. 
 
-Cette année, la Quinzaine des Fiertés aura lieu du 13 juin au 27 juin 2026, dans le cadre le la Marche des Fiertés de Grenoble qui se tiendra le samedi 20 juin. Le formulaire sera clôturé le 3 mai. Au delà, il ne nous sera plus possible d'étudier votre événement. Nous vous précisions que Grenoble Fiertés ne sera pas en charge d'organiser votre événement : notre action se limite à recenser les événements dans le programme sur notre site et à en faire la promotion.
+Cette année, la Quinzaine des Fiertés aura lieu du 13 juin au 27 juin 2026, dans le cadre le la Marche des Fiertés de Grenoble qui se tiendra le samedi 20 juin. Le formulaire sera clôturé le 17 mai. Au delà, il ne nous sera plus possible d'étudier votre événement. Nous vous précisions que Grenoble Fiertés ne sera pas en charge d'organiser votre événement : notre action se limite à recenser les événements dans le programme sur notre site et à en faire la promotion.
 
 Jusqu' à cette date, il vous sera possible de revenir modifier les dates et les modalités de votre événement en cliquant sur le lien "Modifier la réponse" dans le récapitulatif qui vous sera envoyé. 
 

@@ -2,7 +2,7 @@
 title: "Être bénévole"
 description: "Que l’organisation de la quinzaine vous intéresse, ou que vous souhaitiez mettre la main à la pâte ponctuellement, la Pride de Grenoble recherche en permanence des bénévoles. Un formulaire sera bientôt proposé pour les inscriptions pour la Marche. En attendant, pour toute question, n'hésitez pas à nous écrire 😊."
 isArticle: true
-# form: https://noe-app.io/grenoble-pride-2025/welcome
+form: https://noe-app.io/grenoble-pride-2026/welcome
 layout: participation
 date: 2022-01-01T15:00:00+00:00
 lastmod: 2022-01-01T15:00:00+00:00
