@@ -1,8 +1,8 @@
 ---
 title: "Marche des Fiertés de Grenoble - 20 juin 2026"
 description: "L'édition 2026 de la Marche des Fiertés de Grenoble se tiendra le samedi 20/06 au départ du Jardin de Ville, où se tiendra un village associatif toute l'après-midi."
-date: 2026-05-25T13:00:00
-lastmod: 2026-05-25T13:00:00
+date: 2026-05-23T13:00:00
+lastmod: 2026-05-23T13:00:00
 draft: false
 layout: single
 ---
@@ -42,7 +42,7 @@ Organisée par l’association **Grenoble Fiertés**, cette journée s’inscrit
     </div>
     <p>
     <em>
-    Pour cette affiche de l'édition 2026, l'illustration est l'oeuvre de Tereza Lopez (aka Treza, @trezalopez), et la mise en page et typographie par Guillaume Carry. Merci à elle.ux !
+    Pour cette affiche de l'édition 2026, l'illustration est l'oeuvre de Tereza Lopez (aka Treza, @trezalopez), et la mise en page et typographie par Guillaume Carry (aka Opter Lines). Merci à elle.ux !
     </em>
     </p>
   </details>
@@ -56,7 +56,9 @@ Organisée par l’association **Grenoble Fiertés**, cette journée s’inscrit
 Le Jardin de Ville accueillera un village associatif avec de nombreuses organisations LGBTQIA+ : stands d’information, ateliers, rencontres.
 
 **13h00 – 15h00 : Prises de paroles et shows drag**  
-Des performances drag enflammées et des discours inspirants avec **Honey Nasty, XXXXXXXXXXXXXXXXX**.
+Des performances drag et artistiques qui font honneur à la scène locale, hostées par l'incontournable **Honey Nasty !!**.
+
+LINUP LINUP
 
 **15h00 – 17h00 : Manifestation revendicative**  
 Une marche à travers la ville pour revendiquer les droits et la visibilité des personnes LGBTQIA+.
@@ -107,6 +109,17 @@ Des interventions engagées et ambiance musicale.
 
 ---
 
+## 📌 Infos pratiques
+
+Le Jardin de Ville se situe à proximité des arrêts Victor Hugo, Hubert Dubedout - Office du tourisme, Sainte Claire - Les Halles, et Notre Dame - Musée. Il est donc accessible avec les lignes de tram A et B, ainsi que les lignes de bus C1, C3 et C4.
+
+PLAN DU VILLAGE
+PLAN DU CORTEGE
+
+
+
+---
+
 ## 🎉 Soirées de la Pride
 
 <div class="cards">
@@ -122,13 +135,6 @@ Au-delà de la marche, Grenoble célébrera la diversité au travers d'événeme
 <div style="text-align: center;">
 <a class="btn" href="programme" role="button">Le Programme</a>
 </div>
-
-## Infos pratiques
-
-Le Jardin de Ville se situe à proximité des arrêts Victor Hugo, Hubert Dubedout - Office du tourisme, Sainte Claire - Les Halles, et Notre Dame - Musée. Il est donc accessible avec les lignes de tram A et B, ainsi que les lignes de bus C1, C3 et C4.
-
-PLAN DU VILLAGE
-PLAN DU CORTEGE
 
 ## [Partenaires](/edition-2026/partenaires)
 
