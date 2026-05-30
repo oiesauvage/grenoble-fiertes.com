@@ -71,49 +71,77 @@ Des interventions engagées et ambiance musicale.
     <summary><strong>Seront présent.es au Village des Fiertés :</strong></summary>
     <ul>
     <li>AIDES : Lutte contre le VIH/sida et les hépatites.</li>
+    <li>Alpine Skate Culture : Asso Skatepark à Grenoble</li>
     <li>Amnesty International : Défense des droits humains, incluant les droits LGBTI+.</li>
-    <li>Bon Sang! : Lutte contre le tabou des règles et ses différentes conséquences dans la vie quotidienne.</li>
-    <li>CEGGID : Centre de dépistage gratuit des IST.</li>
-    <li>CFDT : Confédération française démocratique du travail.</li>
-    <li>Collectif Enfantiste : Activisme contre les violences faites aux enfants & ados.</li>
-    <li>Commission animation du Centre LGBTI de Grenoble : Organisation d'événements festifs et culturels au Centre LGBTI.</li>
-    <li>Contact : Dialogue entre personnes LGBTI+, leurs parents et proches.</li>
-    <li>DUEC : Groupe chrétien de partage et de prière pour les personnes homosexuelles et leurs proches.</li>
-    <li>Déviations : Association pour personnes trans, inter, non-binaires, déviant.es de genre et / ou en questionnement.</li>
-    <li>ENIPSE : Prévention santé sexuelle pour les publics LGBTI+.</li>
-    <li>FLAM 38 : Équipe de football féministe en mixité choisie.</li>
-    <li>Freesons : Chorale LGBTI+ de Grenoble.</li>
-    <li>Handi Miss Aura : Sensibilisation du grand public aux réalités et aux défis des personnes en situation de handicap.</li>
-    <li>Keep Smiling : Auto support et prévention des risques en milieu festif.</li>
-    <li>La Quête 38 : Accueil et soutien des personnes LGBT+ en questionnement identitaire ou sexuel.</li>
-    <li>Le Planning Familial 38 : Réseau associatif et militant pour la santé sexuelle.</li>
-    <li>Le Refuge : Hébergement et accompagnement pour jeunes LGBTI+ en difficulté.</li>
-    <li>Les Dépauteuses (Grimpe et Glisse) : Sports de montagne à destination des LGBTI+ et allié.es.</li>
-    <li>Les Dérailleurs : Club national de VTT et vélo route LGBTI+ & friendly.</li>
-    <li>Les Voies d'Elles : Association lesbienne en mixité choisie.</li>
-    <li>OST : Organisation de Solidarité Trans - Autosupport et luttes sur Grenoble et environs.</li>
-    <li>Queers for Palestine 38 : Collectif Queer solidaire de la Palestine.</li>
-    <li>RITA : Association de santé communautaire trans et intersexe.</li>
-    <li>Rando's Rhône-Alpes : Randonnées conviviales pour personnes LGBTI+ et allié·es.</li>
-    <li>Resto Malap : Soutien aux personnes migrantes sur Grenoble.</li>
-    <li>Serein.es : Lutte contre les violences sexistes, sexuelles et de genre dans les espaces festifs.</li>
-    <li>Sida Info Service : Information et soutien sur le VIH/sida et les IST.</li>
-    <li>SOS Homophobie : Lutte contre les discriminations LGBTI+.</li>
-    <li>Solidaires Isère : Syndicalisme de lutte et de transformation sociale.</li>
     <li>Tempo : Information, prévention et accompagnement des personnes atteintes du VIH / et hépatites virales, ainsi que leurs proches.</li>
+    <li>Bon Sang! : Lutte contre le tabou des règles et ses différentes conséquences dans la vie quotidienne.</li>
+    <li>Cannibal Marmots : Roller Derby Grenoble</li>
+    <li>CFDT : Confédération Française Démocratique du Travail.</li>
+    <li>CGT Isère : Confédération Générale du Travail.</li>
+    <li>Collectif Bi/Pan +</li>
+    <li>Collectif Enfantiste : Activisme contre les violences faites aux enfants & ados.</li>
+    <li>Commission Asile du Centre LGBTI : Soutien et convivialité pour les personnes en demande d'asile pour LGBTI-phobie.</li>
+    <li>DUEC : Groupe chrétien pour les personnes homosexuelles et leurs proches.</li>
+    <li>FLAM 38 : Équipe de football féministe en mixité choisie.</li>
+    <li>Le Refuge : Hébergement et accompagnement pour jeunes LGBTI+ en difficulté.</li>
+    <li>Freesons : Chorale LGBTI+ de Grenoble.</li>
+    <li>Kanaky38 : Stand presse et information sur la situation Calédonienne.</li>
+    <li>L'Autre Cercle : Inclusion des personnes LGBTQIA+ dans le milieu professionnel.</li>
+    <li>Les Dérailleurs : Club national de VTT et vélo route LGBTI+ & friendly.</li>
+    <li>OneFoxKai : Stand maquillage flash à prix libre.</li>
+    <li>Patriarchie Magazine : Stand d'exposition.</li>
+    <li>Le Planning Familial 38 : Réseau associatif et militant pour la santé sexuelle.</li>
+    <li>Queers for Palestine 38 : Collectif Queer solidaire de la Palestine.</li>
+    <li>Rando's Rhône-Alpes : Randonnées conviviales pour personnes LGBTI+ et allié·es.</li>
+    <li>Rencontres Queer Antivalidistes : Collectif queer militant contre le validisme.</li>
+    <li>Resto Malap : Stand de restauration et asso de soutien aux personnes migrantes sur Grenoble.</li>
+    <li>Sans Gamètes : Stand d'information sur la contraception.</li>
+    <li>Sarcasmes : Revue féministe auto éditée Grenobloise.</li>
+    <li>Serein.es : Lutte contre les violences sexistes, sexuelles et de genre dans les espaces festifs.</li>
+    <li>Solidaires Isère : Syndicalisme de lutte et de transformation sociale.</li>
+    <li>SOS Méditeranée : Aide aux personnes qui risquent leur vie en tentant la traversée de la Méditerranée, parmi lesquelles de nombreuses personnes LGBTI</li>
     <li>UCL : Union Communiste Libertaire</li>
     <li>Vues d'en face : Festival de films LGBTI+ à Grenoble.</li>
     </ul>
   </details>
 </div>
 
+
+<!--     <li>CEGGID : Centre de dépistage gratuit des IST.</li>
+    <li>Commission animation du Centre LGBTI de Grenoble : Organisation d'événements festifs et culturels au Centre LGBTI.</li>
+    <li>Contact : Dialogue entre personnes LGBTI+, leurs parents et proches.</li>
+    <li>Déviations : Association pour personnes trans, inter, non-binaires, déviant.es de genre et / ou en questionnement.</li>
+    <li>ENIPSE : Prévention santé sexuelle pour les publics LGBTI+.</li>
+    <li>Handi Miss Aura : Sensibilisation du grand public aux réalités et aux défis des personnes en situation de handicap.</li>
+    <li>Keep Smiling : Auto support et prévention des risques en milieu festif.</li>
+    <li>La Quête 38 : Accueil et soutien des personnes LGBT+ en questionnement identitaire ou sexuel.</li>
+    <li>Les Dépauteuses (Grimpe et Glisse) : Sports de montagne à destination des LGBTI+ et allié.es.</li>
+    <li>Les Voies d'Elles : Association lesbienne en mixité choisie.</li>
+    <li>OST : Organisation de Solidarité Trans - Autosupport et luttes sur Grenoble et environs.</li>
+    <li>RITA : Association de santé communautaire trans et intersexe.</li>
+    <li>Resto Malap : Soutien aux personnes migrantes sur Grenoble.</li>
+    <li>Sida Info Service : Information et soutien sur le VIH/sida et les IST.</li>
+    <li>SOS Homophobie : Lutte contre les discriminations LGBTI+.</li>
+
+ -->
+ 
 ---
 
-## 📌 Infos pratiques
+## 📌 Infos pratiques et accessibilité
 
 Le Jardin de Ville se situe à proximité des arrêts Victor Hugo, Hubert Dubedout - Office du tourisme, Sainte Claire - Les Halles, et Notre Dame - Musée. Il est donc accessible avec les lignes de tram A et B, ainsi que les lignes de bus C1, C3 et C4.
 
+Sur le village, en plus des stands associatifs, seront mis à disposition : 
+- Un stand accueil et accessibilité (proche entrée place de Gordes / jeux pour enfants)
+- Un point d'eau (gratuit) pour recharger vos gourdes
+- Des cabines WC (gratuites)
+- Un stand buvette
+- Un stand goodies (drapeaux et produits artisanaux / artistiques)
+
 PLAN DU VILLAGE
+
+L'organisation prévisionelle du cortège sera comme suit, avec un cortège calme / handi EN POSITION ???
+
 PLAN DU CORTEGE
 
 
