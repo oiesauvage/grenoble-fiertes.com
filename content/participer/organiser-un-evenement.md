@@ -1,9 +1,10 @@
 ---
 title: "Organiser un événement"
-description: "Vous souhaitez organiser un événement pour la quinzaine des Fiertés et vous voulez le faire figurer au programme officiel ?
-Nous vous invitons à remplir le formulaire (jusqu'au 17 mai), et reviendrons vers vous dès que possible!"
+# description: "Vous souhaitez organiser un événement pour la quinzaine des Fiertés et vous voulez le faire figurer au programme officiel ?
+# Nous vous invitons à remplir le formulaire (jusqu'au 17 mai), et reviendrons vers vous dès que possible!"
+description: "Les soumissions d'événements pour la Quinzaine sont closes pour cette année. N'hésitez pas à les proposer l'an prochain !"
 isArticle: true
-form: https://forms.gle/H83V7qKY9uxMUygK6
+# form: https://forms.gle/H83V7qKY9uxMUygK6
 layout: participation
 date: 2022-01-01T15:00:00+00:00
 lastmod: 2022-01-01T15:00:00+00:00

@@ -38,11 +38,11 @@ Organisée par l’association **Grenoble Fiertés**, cette journée s’inscrit
   <details>
     <summary><strong>🎨 L'Affiche :</strong></summary>
     <div style="text-align: center;">
-    <img src="visuels/affiche-pride-2025.jpg" alt="affiche pride 2025" width="50%"/>
+    <img src="visuels/affiche-pride-2026.png" alt="affiche pride 2025" width="50%"/>
     </div>
     <p>
     <em>
-    Pour cette affiche de l'édition 2026, l'illustration est l'oeuvre de Tereza Lopez (aka Treza, @trezalopez), et la mise en page et typographie par Guillaume Carry (aka Opter Lines). Merci à elle.ux !
+    Pour cette affiche de l'édition 2026, l'illustration est l'oeuvre de Tereza Lopez Pla (aka Treza, @trezalopez), et la mise en page et typographie par @opter_lines. Merci à elle.ux !
     </em>
     </p>
   </details>
@@ -57,8 +57,6 @@ Le Jardin de Ville accueillera un village associatif avec de nombreuses organisa
 
 **13h00 – 15h00 : Prises de paroles et shows drag**  
 Des performances drag et artistiques qui font honneur à la scène locale, hostées par l'incontournable **Honey Nasty !!**.
-
-LINUP LINUP
 
 **15h00 – 17h00 : Manifestation revendicative**  
 Une marche à travers la ville pour revendiquer les droits et la visibilité des personnes LGBTQIA+.
@@ -99,6 +97,7 @@ Des interventions engagées et ambiance musicale.
     <li>Sarcasmes : Revue féministe auto éditée Grenobloise.</li>
     <li>Serein.es : Lutte contre les violences sexistes, sexuelles et de genre dans les espaces festifs.</li>
     <li>Solidaires Isère : Syndicalisme de lutte et de transformation sociale.</li>
+    <li>SOS Racisme</li>
     <li>SOS Méditeranée : Aide aux personnes qui risquent leur vie en tentant la traversée de la Méditerranée, parmi lesquelles de nombreuses personnes LGBTI</li>
     <li>UCL : Union Communiste Libertaire</li>
     <li>Vues d'en face : Festival de films LGBTI+ à Grenoble.</li>
@@ -133,17 +132,18 @@ Le Jardin de Ville se situe à proximité des arrêts Victor Hugo, Hubert Dubedo
 
 Sur le village, en plus des stands associatifs, seront mis à disposition : 
 - Un stand accueil et accessibilité (proche entrée place de Gordes / jeux pour enfants)
-- Un point d'eau (gratuit) pour recharger vos gourdes
-- Des cabines WC (gratuites)
+- Un point d'eau pour recharger vos gourdes
+- Une tente calme, près de l'entrée coté bulles
+- Des cabines WC : potentiellement non disponibles, nous cherchons une solution !
 - Un stand buvette
 - Un stand goodies (drapeaux et produits artisanaux / artistiques)
 
-PLAN DU VILLAGE
 
-L'organisation prévisionelle du cortège sera comme suit, avec un cortège calme / handi EN POSITION ???
+<div style="text-align: center;">
+<img src="plans/plan-jdv-public.png" alt="plan du village des fiertés" width="100%"/>
+</div>
 
-PLAN DU CORTEGE
-
+Organisation globale du cortège à venir.
 
 
 ---
@@ -151,6 +151,30 @@ PLAN DU CORTEGE
 ## 🎉 Soirées de la Pride
 
 <div class="cards">
+
+  <div class="card">
+    <h3> ✨ Pre Pride Party ! ✨</h3>
+    <ul>
+      <li><strong>Quand :</strong> Samedi 20 Juin, de 23h30 à 5h30</li>
+      <li><strong>Où :</strong> Le DrakArt </li>
+      <li><strong> 
+      Célébrons ensemble la journée de lutte pour les droits et la visibilité Lgbtqia+ avec des artistes grenoblois.es au Drak art vendredi 19juin ! Au programme m4uv3 et le collectif de rappeur.euses tpg 300 nébuleuses, les dj la sueur, kmy et monastère, et les artistes performeur.euses Oscar Rifié.e, circle trix et flying jaguar !</strong> 
+      </li>
+      <li>Soirée by agenda queer MTPG Lgbtia grenoble 🌈, préventes sur Hello Asso</li>
+    </ul>
+  </div>
+
+
+  <div class="card">
+    <h3>⚓ After Pride au Neptune ⚓</h3>
+    <ul>
+      <li><strong>Quand :</strong> Samedi 20 Juin, de 18h à 1h</li>
+      <li><strong>Où :</strong> Brasserie Le Neptune, 6 Rue Bressieux, Grenoble</li>
+      <li><strong> Soirée au profit du Refuge à la brasserie Neptune après la Marche des Fiertés.
+        <em>DJ set by COCOX (@cocox.hiddengarden)</em>
+      </li>
+    </ul>
+  </div>
 
 </div>
 

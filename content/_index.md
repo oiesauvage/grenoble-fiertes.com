@@ -12,6 +12,8 @@ L'Édition 2026 de la Marche des Fiertés 2026 aura lieu le **20 Juin** au Jardi
 
 <br>
 
-<!-- <div style="text-align: center;">
-<img src="edition-2025/visuels/marche-createurices-29-11-2025.jpeg" alt="affiche marché des créateurices 2025" width="100%"/>
-</div> -->
+<div style="text-align: center;">
+<img src="edition-2026/visuels/affiche-pride-2026.png" alt="affiche pride grenoble 2026" width="100%"/>
+</div>
+
+Illustration par @trezalopez et graphisme / mise en page par @opter_lines
