@@ -155,7 +155,7 @@ Organisation globale du cortège à venir.
   <div class="card">
     <h3> ✨ Pre Pride Party ! ✨</h3>
     <ul>
-      <li><strong>Quand :</strong> Samedi 20 Juin, de 23h30 à 5h30</li>
+      <li><strong>Quand :</strong> Vendredi 19 Juin, de 23h30 à 5h30</li>
       <li><strong>Où :</strong> Le DrakArt </li>
       <li><strong> 
       Célébrons ensemble la journée de lutte pour les droits et la visibilité Lgbtqia+ avec des artistes grenoblois.es au Drak art vendredi 19juin ! Au programme m4uv3 et le collectif de rappeur.euses tpg 300 nébuleuses, les dj la sueur, kmy et monastère, et les artistes performeur.euses Oscar Rifié.e, circle trix et flying jaguar !</strong> 
