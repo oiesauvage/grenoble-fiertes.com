@@ -55,7 +55,7 @@ Organisée par l’association **Grenoble Fiertés**, cette journée s’inscrit
 **13h00 – 19h00 : Village des Fiertés**  
 Le Jardin de Ville accueillera un village associatif avec de nombreuses organisations LGBTQIA+ : stands d’information, ateliers, rencontres.
 
-**13h00 – 15h00 : Prises de paroles et shows drag**  
+**13h00 – 15h00 : Shows drag et artistiques**  
 Des performances drag et artistiques qui font honneur à la scène locale, hostées par l'incontournable **Honey Nasty !!**.
 
 **15h00 – 17h00 : Manifestation revendicative**  
