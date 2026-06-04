@@ -9,11 +9,11 @@
 </p>
 {{ end }}
 
-<!-- <p class="center">
+<p class="center">
   {{ with .OutputFormats.Get "Calendar" }}
   <a class="btn" href="{{ .RelPermalink }}" type="text/calendar">Ajouter le programme à mon agenda</a>
   {{ end }}
-</p> -->
+</p>
 
 {{/* Separate events by type */}}
 {{ $recurring := where .Data.Pages "Params.type" "in" (slice "recurring" "multi-date") }}
@@ -38,11 +38,11 @@
 {{ end }}
 
 
-<!-- <h2 id="section-2">Événements à dates uniques</h2>
+<h2 id="section-2">Événements à dates uniques</h2>
 
 <p style="font-style: italic; margin-bottom: 3em;"> 
 NB: Si l'import d'évenements .ics ne fonctionne pas correctement avec Google Agenda sur Android, mais vous pouvez importer le / les fichiers sur la version web de google agenda (dans paramètres / importer).
-</p> -->
+</p>
 
 <section class="timeline">
   {{ range sort $single "Params.startDate" "asc" }}

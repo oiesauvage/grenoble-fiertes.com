@@ -13,16 +13,15 @@ cascade:
   layout: evenement
 ---
 
-Programme de la Quinzaine en construction, bientôt disponnible !
 
-<!-- Retrouvez le détail de tous les évènements ci-dessous! 
+Retrouvez le détail de tous les évènements ci-dessous! 
 
 <nav class="toc">
   <ul>
     <li><a href="#section-1"></a>Événements récurrents ou à dates multiples</li>
     <li><a href="#section-2"></a>Événements à dates uniques</li>
   </ul>
-</nav> -->
+</nav>
 
 <!-- Malgré nos efforts, des erratums oublis et changements de dates se sont glissés par rapport au livret papier. En voici la liste :
 
