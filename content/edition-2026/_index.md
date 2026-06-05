@@ -57,6 +57,7 @@ Le Jardin de Ville accueillera un village associatif avec de nombreuses organisa
 
 **13h00 – 15h00 : Shows drag et artistiques**  
 Des performances drag et artistiques qui font honneur à la scène locale, hostées par l'incontournable **Honey Nasty !!**.
+Avec Boris et George, Léo, Venomorph, Angel, Kate, Orgea, Honey, Flo, La Marquise & Suf.
 
 **15h00 – 17h00 : Manifestation revendicative**  
 Une marche à travers la ville pour revendiquer les droits et la visibilité des personnes LGBTQIA+.
@@ -140,7 +141,7 @@ Sur le village, en plus des stands associatifs, seront mis à disposition :
 
 
 <div style="text-align: center;">
-<img src="plans/plan-jdv-public.png" alt="plan du village des fiertés" width="100%"/>
+<img src="plans/plan-jdv-public-complet.png" alt="plan du village des fiertés" width="100%"/>
 </div>
 
 Organisation globale du cortège à venir.
@@ -180,9 +181,11 @@ Organisation globale du cortège à venir.
 
 ---
 
-## 📅 Quizaine des Fiertés – 13 au 27 juin
+## 📅 Mois des Fiertés 
 
 Au-delà de la marche, Grenoble célébrera la diversité au travers d'événements variés organisées par les associations et collectifs de ta région !
+
+NB: La Quinzaine des Fiertés initialement prévue du 13 au 27 juin a été étendue sur tous le mois de Juin, n'hésitez pas à consulter le programme !
 
 <div style="text-align: center;">
 <a class="btn" href="programme" role="button">Le Programme</a>

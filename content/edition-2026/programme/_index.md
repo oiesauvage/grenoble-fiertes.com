@@ -1,6 +1,6 @@
 ---
 title: "Programme 2026 du Mois des Fiertés de Grenoble"
-description: "La Quinzaine des Fiertés rassemble de nombreuses associations LGBTQIA+ de Grenoble autour de deux semaines d'événements organisés par et pour les personnes LGBTQIA+ et leurs allié·es !"
+description: "Le Mois des Fiertés rassemble de nombreuses associations LGBTQIA+ de Grenoble autour de deux semaines d'événements organisés par et pour les personnes LGBTQIA+ et leurs allié·es !"
 missingEvents: false
 date: 2024-05-16T00:00:00+00:00
 lastmod: 2026-05-23T00:00:00+00:00
