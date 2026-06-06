@@ -1,9 +1,9 @@
 ---
-title: "Foi et identités queer, ne pas choisir"
+title: "Foi et identités Queer"
 type: single
 multiDate: 
-startDate: 2026-06-19T20:00:00.000Z
-endDate: 2026-06-19T22:00:00.000Z
+startDate: 2026-06-19T19:30:00.000Z
+endDate: 2026-06-19T21:00:00.000Z
 showHours: true
 showEnd: true
 location: La Bienvenue
@@ -21,4 +21,8 @@ Bien que Devenir Un En Christ s'occupe de foi chrétienne/catholique et d'homose
 ***Organisateur.ices :*** Devenir Un En Christ (DUEC) Grenoble
 
 Accessibilité PMR ♿
+
+<div style="text-align: center;">
+<img src="../visuels/Foi et Identité Queer.png" alt="affiche foi identites queers" width="75%"/>
+</div>
 

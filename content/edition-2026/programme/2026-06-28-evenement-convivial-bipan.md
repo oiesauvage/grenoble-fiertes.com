@@ -1,5 +1,5 @@
 ---
-title: "Événement sans titre"
+title: "Moment convivial BiPan+"
 type: single
 multiDate: 
 startDate: 2026-06-28T14:30:00.000Z

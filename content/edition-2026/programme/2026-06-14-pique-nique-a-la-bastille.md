@@ -12,7 +12,7 @@ placeUrl: https://maps.app.goo.gl/Fu3CZYEdFjgdkiqQ7
 ---
 Moment convivial à la bastille avec un pique-nique sorti du sac.
 
-RV au départ du téléphérique de la Bastille, dimanche 14 juin à 11h.
+RDV au départ du téléphérique de la Bastille, dimanche 14 juin à 11h.
 
 Montée à pieds ou en téléphérique selon le choix de chacune et chacun. L'asso a prévu de payer quelques places pour les personnes ne pouvant pas marcher ou simplement voulant découvrir les oeufs de Grenoble.
 
@@ -20,7 +20,7 @@ Montée à pieds ou en téléphérique selon le choix de chacune et chacun. L'as
 
 ***Inscriptions :*** <https://www.asso-contact.org/asso/38/evenements/2026/06/14/pique-nique-bastille>
 
-***Organisateur.ices :*** Contact
+***Organisateur.ices :*** Association Contact (Dialogue entre les parents, lesbiennes, gays, bi, trans, leur famille et ami.e.s).
 
 Accessibilité PMR ♿
 

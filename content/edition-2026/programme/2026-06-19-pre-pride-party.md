@@ -12,13 +12,16 @@ placeUrl: https://maps.app.goo.gl/nEwDiGTeYZPcvPjcA
 ---
 Célébrons ensemble la journée de lutte pour les droits et la visibilité Lgbtqia+ avec des artistes grenoblois.es au Drak art vendredi 19juin ! Au programme m4uv3 et le collectif de rappeur.euses tpg 300 nébuleuses, les dj la sueur, kmy et monastère, et les artistes performeur.euses Oscar Rifié.e, circle trix et flying jaguar ! De 23h30 à 5h30.
 
-Préventes sur hello asso.
+Préventes sur Hello Asso.
 
 ***Lieu :*** Drak Art
 
 ***Inscriptions :*** <https://www.helloasso.com/associations/grenoble-solidaire/evenements/pre-pride-party>
 
-***Organisateur.ices :*** Agenda queer MTPG Lgbtia grenoble 🌈
+***Organisateur.ices :*** Agenda queer MTPG Lgbtia Grenoble 🌈
 
 Accessibilité PMR ♿
 
+<div style="text-align: center;">
+<img src="../visuels/pre-pride-party-banner.jpg" alt="banner pre pride party" width="100%"/>
+</div>

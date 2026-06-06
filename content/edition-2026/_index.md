@@ -38,7 +38,7 @@ Organisée par l’association **Grenoble Fiertés**, cette journée s’inscrit
   <details>
     <summary><strong>🎨 L'Affiche :</strong></summary>
     <div style="text-align: center;">
-    <img src="visuels/affiche-pride-2026.png" alt="affiche pride 2025" width="50%"/>
+    <img src="visuels/affiche-pride-2026.png" alt="affiche pride 2026" width="50%"/>
     </div>
     <p>
     <em>

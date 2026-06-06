@@ -1,5 +1,5 @@
 ---
-title: "VIVRE ET LAISSER VIVRE : LA VOIX DE JACKIE SHANE"
+title: "Vivre et laisser vivre : La voix de Jackie Shane"
 type: single
 multiDate: 
 startDate: 2026-06-21T16:00:00.000Z

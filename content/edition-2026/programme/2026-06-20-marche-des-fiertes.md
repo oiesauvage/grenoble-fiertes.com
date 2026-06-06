@@ -1,5 +1,5 @@
 ---
-title: "Marche et Village des Fiertés"
+title: "🏳️‍🌈 Marche et Village des Fiertés 🏳️‍🌈"
 type: single
 multiDate: 
 startDate: 2026-06-20T13:00:00.000Z

@@ -54,3 +54,7 @@ En voiture : parking couvert Grenoble Estacade (22 Rue Colonel Denfert Rochereau
 
 Accessibilité PMR ♿
 
+<div style="text-align: center;">
+<img src="../visuels/affiche-parents-queer-luna.png" alt="banner pre pride party" width="75%"/>
+</div>
+
