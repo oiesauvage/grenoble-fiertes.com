@@ -19,3 +19,7 @@ Une projection du film d'animation Jim Queen au cinéma Le Club à Grenoble avec
 ***Organisateur.ices :*** Le Refuge & SOS Homophobie
 
 Accessibilité PMR ♿
+
+<div style="text-align: center;">
+<img src="../visuels/jim-queen-projection.png" alt="affiche jim queen" width="75%"/>
+</div>

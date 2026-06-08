@@ -22,3 +22,6 @@ Synopsis du film : À une époque où l’on réduisait au silence les artistes 
 
 Accessibilité PMR ♿
 
+<div style="text-align: center;">
+<img src="../visuels/jakie-shane.png" alt="affiche jackie shane" width="100%"/>
+</div>

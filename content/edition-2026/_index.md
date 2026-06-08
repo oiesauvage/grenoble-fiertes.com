@@ -171,8 +171,18 @@ Organisation globale du cortège à venir.
     <ul>
       <li><strong>Quand :</strong> Samedi 20 Juin, de 18h à 1h</li>
       <li><strong>Où :</strong> Brasserie Le Neptune, 6 Rue Bressieux, Grenoble</li>
-      <li><strong> Soirée au profit du Refuge à la brasserie Neptune après la Marche des Fiertés.
+      <li><strong> Soirée au profit du Refuge à la brasserie Neptune après la Marche des Fiertés.</strong>
         <em>DJ set by COCOX (@cocox.hiddengarden)</em>
+      </li>
+    </ul>
+  </div>
+  
+  <div class="card">
+    <h3> 🪩 After Pride au LP3 🪩</h3>
+    <ul>
+      <li><strong>Quand :</strong> Samedi 20 Juin, de 18h à 2h</li>
+      <li><strong>Où :</strong>Le LP3, 61 Cr Jean Jaurès, 38000 Grenoble</li>
+      <li><strong>Viens fêter l'après Pride à l'incontournable LP3 ! Au programme : DJ set, clubbing, cocktails ...</strong>
       </li>
     </ul>
   </div>

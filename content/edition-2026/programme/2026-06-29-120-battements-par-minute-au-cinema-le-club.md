@@ -26,3 +26,8 @@ The Movie : Paris, the early 90s. With AIDS already claiming lives for a decade,
 
 ***Organisateur.ices :*** Cinéma Le Club / French With Me / Lost in Frenchlation
 
+<div style="text-align: center;">
+<img src="../visuels/120-bpm.png" alt="affiche 120 bpm" width="75%"/>
+</div>
+
+
