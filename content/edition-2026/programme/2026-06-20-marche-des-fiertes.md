@@ -23,3 +23,7 @@ Une marche à travers la ville pour revendiquer les droits et la visibilité des
 
 **17h00 – 19h00 : Prises de paroles et playlist / mix**  
 Des interventions engagées et ambiance musicale.
+
+<div style="text-align: center;">
+<img src="../visuels/affiche-ouverture-pride.jpg" alt="affiche ouverture pride" width="75%"/>
+</div>
