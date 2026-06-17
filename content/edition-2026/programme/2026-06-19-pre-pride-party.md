@@ -23,5 +23,5 @@ Préventes sur Hello Asso.
 Accessibilité PMR ♿
 
 <div style="text-align: center;">
-<img src="../visuels/pre-pride-party-banner.jpg" alt="banner pre pride party" width="100%"/>
+<img src="../visuels/pre-pride-party.png" alt="affiche pre pride party" width="75%"/>
 </div>

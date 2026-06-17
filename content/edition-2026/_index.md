@@ -208,3 +208,7 @@ NB: La Quinzaine des Fiertés initialement prévue du 13 au 27 juin a été éte
 ## [Partenaires](/edition-2026/partenaires)
 
 Nous remercions chaleureusement la ville de Grenoble pour son accompagenement, ainsi que toutes les structures, associations et collectifs ayant participé à la marche ou aux événements du Mois des Fiertés.
+
+<div style="text-align: center;">
+<a class="btn" href="partenaires" role="button">Partenaires 2026</a>
+</div>

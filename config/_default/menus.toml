@@ -3,12 +3,22 @@
 [[main]]
   name = "Rétrospectives"
   url = "/galleries"
-  weight = 2
+  weight = 1
 
 [[main]]
  name = "Qui sommes-nous ?"
  url = "/a-propos"
  weight = 4
+
+[[main]]
+ name = "Édition 2026"
+ url = "/edition-2026"
+ weight = 2
+
+[[main]]
+ name = "Partenaires 2026"
+ url = "/edition-2026/partenaires"
+ weight = 3
 
 [[main]]
   name = "Contact"
